@@ -80,9 +80,3 @@ On next commitment i will add:
 *   Investigating other potential features or feature engineering techniques.
 *   Exploring different model evaluation metrics and techniques.
 *   Analyzing feature importance to understand which factors contribute most to the predictions.
-
-
-
-## License
-
-*(Add your preferred license information here)*
