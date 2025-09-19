@@ -74,9 +74,9 @@ The project followed these key steps:
 
 Based on the initial evaluation, models like CatBoost, Random Forest, Gradient Boosting, and LightGBM show promising results in predicting player engagement levels.
 
-On next commitment i will add:
+On commitment: Player_Engagement_update, I have improved the model by:
 
 *   Hyperparameter tuning for the best-performing models to optimize their performance.
-*   Investigating other potential features or feature engineering techniques.
+*   Created pipelines for reproducibility.
 *   Exploring different model evaluation metrics and techniques.
 *   Analyzing feature importance to understand which factors contribute most to the predictions.
