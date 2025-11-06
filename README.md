@@ -57,7 +57,7 @@ The project followed these key steps:
 
 ## Machine Learning Model Performance
 
-*(You can add a summary table here comparing the performance metrics (Accuracy, Precision, Recall, F1-score) of the trained models based on your classification reports. For example:)*
+
 
 | Model               | Accuracy | Precision (Weighted Avg) | Recall (Weighted Avg) | F1-Score (Weighted Avg) |
 | :------------------ | :------- | :----------------------- | :-------------------- | :---------------------- |
@@ -69,8 +69,6 @@ The project followed these key steps:
 | Gradient Boosting   | 0.91     | 0.91                     | 0.91                  | 0.91                    |
 | LightGBM            | 0.91     | 0.91                     | 0.91                  | 0.91                    |
 | CatBoost            | 0.92     | 0.92                     | 0.92                  | 0.92                    |
-
-*(Update the table with the actual metrics from your model evaluations)*
 
 Based on the initial evaluation, models like CatBoost, Random Forest, Gradient Boosting, and LightGBM show promising results in predicting player engagement levels.
 
